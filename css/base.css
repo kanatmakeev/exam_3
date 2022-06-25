@@ -13,3 +13,18 @@ li {
 a {
   text-decoration: none;
 }
+
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+
+body,
+h1,
+h2,
+div,
+p,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
